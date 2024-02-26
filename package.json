@@ -1,0 +1,24 @@
+{
+  "name": "tea_ace",
+  "version": "1.0.0",
+  "description": "just a test package",
+  "main": "/dist/index.js",
+  "module": "./dist/index.mjs",
+  "types": "./dist/index.d.ts",
+  "homepage": "https://google.com",
+  "repository": {
+    "url": "https://github.com/alvianistilalhanafi/tea_ace"
+  },
+  "scripts": {
+    "build": "tsup"
+  },
+  "keywords": [
+    "test"
+  ],
+  "author": "Alvian",
+  "license": "MIT",
+  "devDependencies": {
+    "tsup": "^8.0.2",
+    "typescript": "^5.3.3"
+  }
+}
