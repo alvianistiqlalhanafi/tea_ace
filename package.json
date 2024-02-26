@@ -1,5 +1,5 @@
 {
-  "name": "tea_ace",
+  "name": "tea_as",
   "version": "1.0.0",
   "description": "just a test package",
   "main": "/dist/index.js",
@@ -7,7 +7,7 @@
   "types": "./dist/index.d.ts",
   "homepage": "https://google.com",
   "repository": {
-    "url": "https://github.com/alvianistilalhanafi/tea_ace"
+    "url": "https://github.com/alvianistiqlalhanafi/tea_ace"
   },
   "scripts": {
     "build": "tsup"
